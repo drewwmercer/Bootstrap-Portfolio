@@ -74,7 +74,6 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
 }
 
 nav {
@@ -249,8 +248,9 @@ input[type=submit] {
   font-weight: 700;
   color: white;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none;*/
   background: #4aaaa5;
+  margin-top: 0px;
 }
 
 .profile-pic {
