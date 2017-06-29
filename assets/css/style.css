@@ -257,6 +257,10 @@ input[type=submit] {
   height: 150px;
 }
 
+.portfolio-image {
+  width: 170px;
+}
+
 /* Adding media queries */
 
 /* If the browser window is smaller than 980px */
